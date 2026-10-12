@@ -20,7 +20,7 @@ I'm building the tools, skills and breeding strategies that turn complex crop sc
 | | |
 | :-- | :-- |
 | 🧬 **Quantitative geneticist & plant breeder** | Genomic selection, GWAS, mixed models and breeding-programme design, from IRRI's Rice Breeding Innovation Platform to programmes worldwide |
-| 📦 **R & Shiny package developer** | Production R packages and Shiny apps, from [ShinyAIM](https://github.com/whussain2/ShinyAIM) to [TSOpt](https://github.com/whussain2/TSOpt) |
+| 📦 **R & Shiny developer** | Production R packages and Shiny platforms: [DataViz Pro](https://plantnura.com/tools/datavizpro.html), [KropAnalytiX](https://plantnura.com/tools/kropanalytix.html), [BreedPilot](https://plantnura.com/tools/breedpilot.html), [TSOpt](https://github.com/whussain2/TSOpt) and [ShinyAIM](https://github.com/whussain2/ShinyAIM) |
 | 🌐 **Website builder** | Fast, modern websites, for example [plantnura.com](https://plantnura.com/) and [this site](https://whussain2.github.io/) |
 | ☁️ **Cloud deployment on AWS** | Containerised scientific apps hosted on AWS, for example [DataViz Pro](https://plantnura.com/tools/datavizpro.html) |
 | 🚀 **Founder & CEO, [PlantNura](https://plantnura.com/)** | Education, software and consultancy that bring elite breeding science to every scientist, everywhere |
@@ -34,13 +34,43 @@ I'm building the tools, skills and breeding strategies that turn complex crop sc
  Univ. of Nebraska    Animal Science, UNL       IRRI
 ```
 
-### 🛠️ Featured work
+### 🌿 PlantNura software · built with R Shiny
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**📈 [DataViz Pro](https://plantnura.com/tools/datavizpro.html)**<br>
+<img alt="Live on AWS" src="https://img.shields.io/badge/status-live_on_AWS-0e948e?style=flat-square&logo=amazonwebservices&logoColor=white">
+
+Every figure your research needs, publication-ready from the first render. A no-code workspace with **150+ plot types in 31 modules**, from box plots and regression to Manhattan, LD, circos and population-structure plots, with data cleaning and genotype-file conversion built in.
+
+</td>
+<td width="33%" valign="top">
+
+**🧪 [KropAnalytiX](https://plantnura.com/tools/kropanalytix.html)**<br>
+<img alt="Launching soon" src="https://img.shields.io/badge/status-launching_soon-7548f5?style=flat-square">
+
+Every analysis a breeding programme runs, in one no-code workspace. Takes your **field book, marker file or pedigree** from upload to a result you can defend, with diagnostics and a report beside every result.
+
+</td>
+<td width="33%" valign="top">
+
+**🧭 [BreedPilot](https://plantnura.com/tools/breedpilot.html)**<br>
+<img alt="Launching soon" src="https://img.shields.io/badge/status-launching_soon-7548f5?style=flat-square">
+
+Every breeding decision, tested before it is made. An **AI breeding assistant** built on in-house algorithms that reasons like an experienced breeder: which parents to use, which crosses to make and what to select, simulated before a seed is planted.
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Open-source & research work
 
 | Project | What it is |
 | :-- | :-- |
 | 🎯 **[TSOpt](https://github.com/whussain2/TSOpt)** | R package for training-set design in genomic prediction: decides which genotyped lines to phenotype, exactly and in milliseconds, for any crop and breeding system |
 | 🔗 **[Connected Breeding](https://github.com/whussain2/conected-breeding-salinity-simulation)** | Stochastic simulation of managed donor inflow into recurrent genomic selection, the companion code for an integrated framework for salt-tolerant rice (*Plant Communications*) |
-| 📈 **[DataViz Pro](https://plantnura.com/tools/datavizpro.html)** · PlantNura | No-code workspace with 150+ publication-ready plot types in 31 modules, from box plots to Manhattan, LD and circos plots; deployed and hosted on AWS |
 | 📊 **[ShinyAIM](https://github.com/whussain2/ShinyAIM)** | Shiny app for interactive Manhattan plots in longitudinal GWAS ([*Plant Direct*, 2018](https://doi.org/10.1002/pld3.91)) |
 | 📘 **[R for Plant Breeding](https://github.com/whussain2/R-for-Plant-Breeding)** | Open learning resource for plant breeding and genetics data analysis and visualisation in R |
 | 🔁 **[Analysis pipeline](https://github.com/whussain2/Analysis-pipeline)** | Open-source pipeline for robust breeding-trial analysis, visualisation and sharing ([*Plant Methods*, 2022](https://doi.org/10.1186/s13007-022-00845-7)) |
