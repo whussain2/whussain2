@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Dr. Waseem Hussain — Founder and CEO, PlantNura">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1326"/>
+      <stop offset="1" stop-color="#070b18"/>
+    </linearGradient>
+    <radialGradient id="v" cx="0.85" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#9b6dff" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#9b6dff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="a" cx="0.05" cy="1" r="0.55">
+      <stop offset="0" stop-color="#50e8dc" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#50e8dc" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9b6dff"/>
+      <stop offset="1" stop-color="#50e8dc"/>
+    </linearGradient>
+    <linearGradient id="pn" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8C52FF"/>
+      <stop offset="1" stop-color="#5C6FF4"/>
+    </linearGradient>
+    <style>
+      .t { font-family: "Manrope", "Segoe UI", Helvetica, Arial, sans-serif; }
+      .dna { animation: drift 9s ease-in-out infinite alternate; }
+      @keyframes drift { to { transform: translateX(-26px); } }
+      @media (prefers-reduced-motion: reduce) { .dna { animation: none; } }
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#v)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#a)"/>
+
+  <!-- Manhattan-plot motif -->
+  <g class="dna" opacity="0.5">
+    <g fill="#9b6dff">
+      <circle cx="760" cy="238" r="3"/><circle cx="776" cy="226" r="3"/><circle cx="790" cy="240" r="3"/><circle cx="806" cy="214" r="3"/><circle cx="820" cy="232" r="3"/><circle cx="836" cy="196" r="3"/><circle cx="850" cy="226" r="3"/>
+      <circle cx="866" cy="242" r="3"/><circle cx="880" cy="220" r="3"/><circle cx="896" cy="236" r="3"/>
+    </g>
+    <g fill="#50e8dc">
+      <circle cx="912" cy="230" r="3"/><circle cx="926" cy="208" r="3"/><circle cx="940" cy="168" r="3.5"/><circle cx="952" cy="122" r="4"/><circle cx="964" cy="88" r="4.5"/><circle cx="976" cy="132" r="4"/><circle cx="990" cy="190" r="3"/>
+      <circle cx="1004" cy="232" r="3"/><circle cx="1018" cy="218" r="3"/>
+    </g>
+    <g fill="#9b6dff">
+      <circle cx="1034" cy="240" r="3"/><circle cx="1048" cy="222" r="3"/><circle cx="1062" cy="204" r="3"/><circle cx="1076" cy="236" r="3"/><circle cx="1090" cy="228" r="3"/><circle cx="1106" cy="212" r="3"/><circle cx="1120" cy="238" r="3"/><circle cx="1136" cy="224" r="3"/>
+    </g>
+    <line x1="740" y1="150" x2="1160" y2="150" stroke="#50e8dc" stroke-width="1" stroke-dasharray="5 6" opacity="0.6"/>
+  </g>
+
+  <!-- PlantNura mark -->
+  <g transform="translate(64 58) scale(1.2)">
+    <rect width="40" height="40" rx="9" fill="url(#pn)"/>
+    <path d="M20 6C12.5 10.2 8.5 16 8.5 23.5c0 5.8 4.1 10.5 11.5 10.5 0-7.5 0-7.5 0-7.5-4.1 0-6.5-2.5-6.5-6.5 0-5 2.5-9.2 6.5-11.7 4 2.5 6.5 6.7 6.5 11.7 0 4-2.4 6.5-6.5 6.5 0 0 0 0 0 7.5 7.4 0 11.5-4.7 11.5-10.5C31.5 16 27.5 10.2 20 6Z" fill="#fff"/>
+    <path d="M20 6v28" stroke="#03F7EB" stroke-width="1.8"/>
+  </g>
+  <text x="128" y="90" class="t" fill="#50e8dc" font-size="15" font-weight="700" letter-spacing="2.5">FOUNDER &amp; CEO · PLANTNURA</text>
+
+  <text x="64" y="168" class="t" fill="#f7f8ff" font-size="54" font-weight="600" letter-spacing="-2">Dr. Waseem Hussain</text>
+  <text x="64" y="214" class="t" fill="url(#txt)" font-size="26" font-weight="700" letter-spacing="-0.5">Science that moves agriculture forward.</text>
+  <text x="64" y="252" class="t" fill="#a8adc3" font-size="17">Quantitative geneticist · Plant breeder · Builder of open breeding tools</text>
+</svg>
