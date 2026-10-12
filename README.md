@@ -15,11 +15,15 @@
 
 ### 🌾 About me
 
-I'm a **quantitative geneticist and plant breeder, R Shiny Package developer, Website builder, AWS hosting...** building the tools, skills and breeding strategies that turn complex crop science into practical progress.
+I'm building the tools, skills and breeding strategies that turn complex crop science into practical progress, wearing several hats along the way:
 
-- 🚀 **Founder & CEO of [PlantNura](https://plantnura.com/)**: education, software and consultancy that bring elite breeding science to every scientist, everywhere.
-- 🌱 Rice breeding scientist at **IRRI's Rice Breeding Innovation Platform**: salinity, drought and flood tolerance, genomic selection and genetic gain.
-- 🧬 I love making analysis **open, visual and reproducible**, with R, Shiny and well-documented pipelines.
+| | |
+| :-- | :-- |
+| 🧬 **Quantitative geneticist & plant breeder** | Genomic selection, GWAS, mixed models and breeding-programme design, from IRRI's Rice Breeding Innovation Platform to programmes worldwide |
+| 📦 **R & Shiny package developer** | Production R packages and Shiny apps, from [ShinyAIM](https://github.com/whussain2/ShinyAIM) to [TSOpt](https://github.com/whussain2/TSOpt) |
+| 🌐 **Website builder** | Fast, modern websites, for example [plantnura.com](https://plantnura.com/) and [this site](https://whussain2.github.io/) |
+| ☁️ **Cloud deployment on AWS** | Containerised scientific apps hosted on AWS, for example [DataViz Pro](https://plantnura.com/tools/datavizpro.html) |
+| 🚀 **Founder & CEO, [PlantNura](https://plantnura.com/)** | Education, software and consultancy that bring elite breeding science to every scientist, everywhere |
 
 ### 🧭 Journey
 
@@ -34,12 +38,14 @@ I'm a **quantitative geneticist and plant breeder, R Shiny Package developer, We
 
 | Project | What it is |
 | :-- | :-- |
+| 🎯 **[TSOpt](https://github.com/whussain2/TSOpt)** | R package for training-set design in genomic prediction: decides which genotyped lines to phenotype, exactly and in milliseconds, for any crop and breeding system |
+| 🔗 **[Connected Breeding](https://github.com/whussain2/conected-breeding-salinity-simulation)** | Stochastic simulation of managed donor inflow into recurrent genomic selection, the companion code for an integrated framework for salt-tolerant rice (*Plant Communications*) |
+| 📈 **[DataViz Pro](https://plantnura.com/tools/datavizpro.html)** · PlantNura | No-code workspace with 150+ publication-ready plot types in 31 modules, from box plots to Manhattan, LD and circos plots; deployed and hosted on AWS |
+| 📊 **[ShinyAIM](https://github.com/whussain2/ShinyAIM)** | Shiny app for interactive Manhattan plots in longitudinal GWAS ([*Plant Direct*, 2018](https://doi.org/10.1002/pld3.91)) |
 | 📘 **[R for Plant Breeding](https://github.com/whussain2/R-for-Plant-Breeding)** | Open learning resource for plant breeding and genetics data analysis and visualisation in R |
 | 🔁 **[Analysis pipeline](https://github.com/whussain2/Analysis-pipeline)** | Open-source pipeline for robust breeding-trial analysis, visualisation and sharing ([*Plant Methods*, 2022](https://doi.org/10.1186/s13007-022-00845-7)) |
-| 📊 **[ShinyAIM](https://github.com/whussain2/ShinyAIM)** | Shiny app for interactive Manhattan plots in longitudinal GWAS ([*Plant Direct*, 2018](https://doi.org/10.1002/pld3.91)) |
-| 🧮 **[Mixed Models](https://github.com/whussain2/Mixed_Models)** | Learn mixed models step by step and extract BLUEs and BLUPs |
 | 🎓 **[Fundamentals of Genomic Prediction](https://github.com/whussain2/IRRI-IRRI-2025)** | Course material for the genomic prediction course I taught at IRRI |
-| 🧬 **[vGWAS](https://github.com/whussain2/vGWAS)** | Code and data for variance-heterogeneity GWAS for grain cadmium in wheat |
+| 🧮 **[Mixed Models](https://github.com/whussain2/Mixed_Models)** | Learn mixed models step by step and extract BLUEs and BLUPs |
 
 ### 📄 Recent publications
 
