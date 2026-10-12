@@ -15,7 +15,7 @@
 
 ### 🌾 About me
 
-I'm a **quantitative geneticist and plant breeder** building the tools, skills and breeding strategies that turn complex crop science into practical progress.
+I'm a **quantitative geneticist and plant breeder, R Shiny Package developer, Website builder, AWS hosting...** building the tools, skills and breeding strategies that turn complex crop science into practical progress.
 
 - 🚀 **Founder & CEO of [PlantNura](https://plantnura.com/)**: education, software and consultancy that bring elite breeding science to every scientist, everywhere.
 - 🌱 Rice breeding scientist at **IRRI's Rice Breeding Innovation Platform**: salinity, drought and flood tolerance, genomic selection and genetic gain.
